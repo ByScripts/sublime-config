@@ -1,0 +1,16 @@
+{
+	"installed_packages":
+	[
+		"AlignTab",
+		"ApacheConf.tmLanguage",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Emmet",
+		"GitGutter",
+		"Handlebars",
+		"PHP-Twig",
+		"Predawn",
+		"Pretty JSON",
+		"SCSS"
+	]
+}
