@@ -6,10 +6,12 @@
 		"Better CoffeeScript",
 		"BracketHighlighter",
 		"Emmet",
+		"fish-shell",
 		"GitGutter",
 		"Handlebars",
 		"PHP-Twig",
 		"Predawn",
+		"Predawn Monokai",
 		"Pretty JSON",
 		"SCSS"
 	]
